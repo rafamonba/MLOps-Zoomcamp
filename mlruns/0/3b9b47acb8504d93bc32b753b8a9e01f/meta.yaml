@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/3b9b47acb8504d93bc32b753b8a9e01f/artifacts
+deleted_time: 1790777001376
+end_time: 1790776838471
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 3b9b47acb8504d93bc32b753b8a9e01f
+run_name: orderly-swan-671
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1790776833678
+status: 3
+tags: []
+user_id: codespace

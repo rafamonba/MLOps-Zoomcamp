@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/b35beb0e7e9849f9a14ecbb71ddc17fd/artifacts
+deleted_time: 1790776911069
+end_time: 1790776549776
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: b35beb0e7e9849f9a14ecbb71ddc17fd
+run_name: charming-stork-340
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1790776549665
+status: 3
+tags: []
+user_id: codespace

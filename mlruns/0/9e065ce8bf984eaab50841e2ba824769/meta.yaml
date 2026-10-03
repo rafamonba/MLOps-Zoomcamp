@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/9e065ce8bf984eaab50841e2ba824769/artifacts
+deleted_time: 1790776911069
+end_time: 1790776705297
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 9e065ce8bf984eaab50841e2ba824769
+run_name: orderly-conch-218
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1790776705237
+status: 4
+tags: []
+user_id: codespace

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/c9622639832b4a018b26bca56d487f07/artifacts
+end_time: 1790785529963
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c9622639832b4a018b26bca56d487f07
+run_name: languid-snail-277
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1790785521630
+status: 3
+tags: []
+user_id: codespace

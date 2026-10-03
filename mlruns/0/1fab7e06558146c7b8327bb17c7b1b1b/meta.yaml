@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/1fab7e06558146c7b8327bb17c7b1b1b/artifacts
+end_time: 1790776957991
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1fab7e06558146c7b8327bb17c7b1b1b
+run_name: calm-loon-482
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1790776953372
+status: 3
+tags: []
+user_id: codespace

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/c3ee14a58e074650a09e03ab7eb5e5f7/artifacts
+end_time: 1790785411372
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c3ee14a58e074650a09e03ab7eb5e5f7
+run_name: stylish-moose-390
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1790785400468
+status: 3
+tags: []
+user_id: codespace

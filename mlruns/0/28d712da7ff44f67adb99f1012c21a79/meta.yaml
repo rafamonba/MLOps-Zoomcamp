@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/28d712da7ff44f67adb99f1012c21a79/artifacts
+end_time: 1790782017621
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 28d712da7ff44f67adb99f1012c21a79
+run_name: nervous-mare-483
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1790782000348
+status: 3
+tags: []
+user_id: codespace

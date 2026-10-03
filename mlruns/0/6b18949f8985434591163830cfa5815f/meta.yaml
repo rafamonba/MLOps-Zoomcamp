@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/6b18949f8985434591163830cfa5815f/artifacts
+deleted_time: 1790776911080
+end_time: 1790776789273
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 6b18949f8985434591163830cfa5815f
+run_name: merciful-dove-40
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1790776784315
+status: 3
+tags: []
+user_id: codespace
